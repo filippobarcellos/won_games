@@ -1,17 +1,3 @@
-# WonGames 🎮
-This repository refers to a awesome game store made with Next.js 🚀 <br />
-
-<p align="center" t>
-  <img src="./.github/logo.png" />
-</p>
-
-
-# Proposal 🔥
-
-<p align="center" t>
-  <img src="./.github/screenshot.png" />
-</p>
-
 This project was made to approach and practice advanced concepts of React, such as development directed to components, global state management, GraphQL, server-side redering, static site generation, content management via CMS with Strapi and development of components with TDD.
 
 For this purpose, this project uses Next.js as the main framework and has as concept a fictional game store.
@@ -43,7 +29,6 @@ To obtain this project, follow the steps:
 3. Run <code> yarn dev </code> at the root of the project folder to start the application in development mode.
 4. Open the application in your emulator. 🚀 <br />
 
-Obs.: You can use <code> npm </code> too.
 
 # How to contribute? 😍
 **Fork this repository**
@@ -60,8 +45,3 @@ $ git commit -m 'my changes'
 # Push your branch
 $ git push origin my-branch
 ```
-
-Delete your branch, if you want, when your pull request merge. <br />
-
-Made with 💜 by <a href="https://www.linkedin.com/in/andrecampll/" target="_blank"> andrecampll </a>. <br />
-<br />
